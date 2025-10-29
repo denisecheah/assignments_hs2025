@@ -1,6 +1,4 @@
 # Assignments (Autumn 2025)
 
-- Simulations in the Natural Sciences
-- Evolutionary Dynamics
-
-For record-keeping purposes only! 
+- Simulations in the Natural Sciences (using Python)
+- Evolutionary Dynamics (mathematical modelling)
