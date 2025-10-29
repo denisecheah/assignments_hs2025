@@ -1,3 +1,4 @@
 # Assignments (HS2025, UZH)
 
-ESC 201 - Simulations in the Natural Sciences
+- Simulations in the Natural Sciences
+- Evolutionary Dynamics
